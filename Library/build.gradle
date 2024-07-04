@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.androidLibrary)
 }
 apply plugin: 'maven-publish'
+group = 'com.github.aman2970'
 
 
 android {
